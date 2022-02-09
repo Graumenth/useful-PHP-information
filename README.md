@@ -1,4 +1,4 @@
-# useful-PHP-information
+# Useful PHP information
 
 
 Multiple image array before the code:
