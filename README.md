@@ -1,6 +1,13 @@
 # Useful PHP information
 
-1-Array sort
+Index
+-------------
+1- Multiple uploaded file array rearrange
+2- ipinfo.io integration PHP and JS
+
+
+1- Multiple uploaded file array rearrange
+-------------
 
 Multiple image array before the code:
 ```
@@ -78,3 +85,6 @@ Array
 
 )
 ```
+
+2- ipinfo.io integration PHP and JS
+-------------
